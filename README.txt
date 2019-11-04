@@ -5,3 +5,6 @@
 3) Use files under 'progress-bar-images' directory to make your own break time images with a progress bar.
 
 4) Ask Oakyoon, if you are not sure what to do.
+
+
+Note that this repository only contains images and instructions. Part of the AMT tips and tricks folder.
